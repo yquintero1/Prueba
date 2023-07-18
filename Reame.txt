@@ -1,0 +1,35 @@
+Cafetería - Sistema de Gestión
+Este proyecto es un sistema de gestión para una cafetería desarrollado en PHP nativo y utiliza una base de datos MySQL. Proporciona funcionalidades CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar los productos, pedidos y clientes de la cafetería.
+
+Características
+Gestión de productos: permite agregar, editar y eliminar productos del menú de la cafetería.
+Gestión de venta: permite registrar nuevos pedidos, ver los pedidos existentes y actualizar su estado.
+
+Requisitos
+Antes de comenzar, asegúrate de tener lo siguiente:
+
+Servidor web con soporte para PHP (por ejemplo, Apache).
+Importante conexion a intenret para vistas mas bonitos
+Servidor de base de datos MySQL.
+PHP 7.x o superior.
+Extensiones PHP necesarias (por ejemplo, mysqli) habilitadas.
+Preferimente XAMPP
+
+Instalación
+Sigue estos pasos para configurar el proyecto en tu entorno local:
+
+Clona este repositorio o descarga los archivos en tu máquina.
+Crea una base de datos en tu servidor MySQL para el proyecto de la cafetería.
+Importa el archivo bd_prod.sql en tu base de datos para crear las tablas necesarias.
+Abre el archivo config.php y actualiza la configuración de conexión a la base de datos con tus propios detalles de conexión.
+Copia los archivos del proyecto en tu servidor web.
+Accede al proyecto a través de tu navegador web y deberías ver la página de inicio.
+Uso
+Al ejecutar el proyecto cargara automaticamente los datos y desde hay s epodran hacaer la diferentes tareas del CRUD y realizar ventas
+Este proyecto es de código abierto y las contribuciones son bienvenidas. 
+
+Contacto
+Si tienes alguna pregunta, problema o sugerencia, no dudes en contactarnos a través de correo electrónico 
+
+Estado del Proyecto
+Este proyecto se encuentra en terminado segun indicaciones con  fronted basico y casi nulo y se actualizara periódicamente.
